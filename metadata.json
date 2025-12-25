@@ -1,0 +1,7 @@
+{
+  "name": "Labour Attendance Pro",
+  "description": "A smart attendance tracking system that parses WhatsApp messages and screenshots into a structured spreadsheet. Includes AI-powered deduplication, OT calculation (Salary/8), and learning from user corrections.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
